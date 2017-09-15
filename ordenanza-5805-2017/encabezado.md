@@ -1,0 +1,10 @@
+Ordenanza Nº5805/17
+Ordenanza Nº 5805/17
+Moreno, 26/07/2017
+VISTO las constancias obrantes en el Expediente N° 4078-176728-S-2016, y
+CONSIDERANDO que las mismas contienen el convenio suscripto entre la Municipalidad de Hurlingham y nuestra comuna, cuyo objeto es cubrir las necesidades de carácter sanitario social en el Partido de Moreno, mediante la adquisición de medicamentos del tipo “Genéricos” elaborados por el Laboratorio Municipal de Hurlingham.
+QUE conforme el instrumento firmado, será obligación del proveedor de suministros entregar a la comuna un listado de los medicamentos que se encuentran en posibilidad de ser fabricados, con sus respectivos precios.
+QUE no es ocioso resaltar que el derecho a la salud, posee jerarquía constitucional. Pues el art. 75 inc. 22 de nuestra Carta Magna le otorga tal condición a los tratados internacionales que versen sobre Derechos Humanos. En tal sentido, el art. 25 de la Declaración Universal de los Derechos Humanos estipula que “toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, la salud y el bienestar”. A mayor abundamiento, el art. XI de la Declaración Americana de los Derechos y Deberes del Hombre prescribe que “toda persona tiene derecho a que su salud sea preservada por medidas sanitarias y sociales, relativas a la alimentación, el vestido, la vivienda y la asistencia médica, correspondientes al nivel que permitan los recursos públicos y los de la comunidad., A su vez, el Pacto Internacional de Derechos Económicos, Sociales y Culturales, en su art. 12 estipula en forma expresa que toda persona tiene derecho al disfrute del más alto nivel posible de salud física y mental.
+QUE la constitución de la Provincia de Buenos Aires, en su art. 36 inc. 08, reconoce el Derecho a la Salud, disponiendo que “el medicamento por su condición de bien social, integra el derecho a la salud”.
+POR TODO ELLO, el Honorable Concejo Deliberante, en uso de sus atribuciones legales, sanciona la siguiente:
+ORDENANZA
