@@ -1,0 +1,17 @@
+Ordenanza Nº5948/18
+Ordenanza Nº 5948/18
+Moreno, 15/08/2018
+VISTO el Expediente H.C.D N° 32.765/18, s/designación “Plaza Héroes de Malvinas” al espacio físico ubicado en la calle Justo Daract frente “Plaza Bujan”; y
+CONSIDERANDO que el día 2 de abril se conmemora el “Día del Veterano y de los caídos en la Guerra en Malvinas.
+QUE entre el 2 de Abril y el 14 de Junio de 1982, centenares de compatriotas ofrendaron en Malvinas sus vidas en una gran batalla, sin más gloria ni esperanza que la de cumplir con su destino; combatiendo tenaz y valientemente, haciendo gala de un coraje inquebrantable.
+QUE existe la necesidad constante de homenajear a nuestros Veteranos y Héroes de la Guerra de Malvinas y continuar legislando en su honor y reconocimiento, a fin de mantener viva nuestra Historia como sociedad.
+QUE la valoración de nuestros Ex conscriptos y Civiles que participaron del conflicto bélico en Malvinas, es y debe seguir siendo una actitud permanente de reconocimiento por parte del Estado y la Sociedad en conjunto, a quienes son nuestros Héroes hoy.
+QUE es viable rendir un justo homenaje a esos héroes que dieron su vida por la patria, que les encomendó su defensa, y que lucharon en pos de un ideal que nadie podrá cambiar jamás: “las Malvinas fueron, son y seguirán siendo Argentinas”.
+QUE el homenaje propuesto, a través de la presente Ordenanza, es recordarlos mediante muestra física y permanente para nuestra ciudad: la designación de un lugar con el nombre “Héroes de Malvinas” nombre que contiene un profundo significado para los argentinos.
+QUE un modo de reconocer la gesta de Malvinas y recordar la actitud valiente de nuestros Veteranos es crear símbolos históricos y culturales que fortalezcan la construcción de nuestra memoria colectiva.
+QUE el lugar apropiado a tal fin es el espacio físico ubicado frente a la “Plaza Buján”, sector oeste, y que se encuentra comprendido por las calles Justo Daract entre Arribeños y Facundo Quiroga.
+QUE están vigentes Leyes Nacionales como la Nº 23.848, 23.598 y 26.652 entre otras, que se refieren a asistencia y seguridad social; la Resolución Nº 752/82 y el Decreto Nº 3307 que otorgan beneficios en educación y la Ley Nº 23.118 acerca de Homenajes.
+QUE existen Leyes Provinciales como la Nº 12.867 y 12.230 entre otras que otorgan beneficios a ex combatientes en seguridad social, vivienda, homenajes y otros sentimiento nacional que expresa, a lo largo y a lo ancho de nuestro territorio, el homenaje a los caídos, el reconocimiento a los veteranos y el necesario consuelo a quienes perdieron a sus seres queridos. Un Héroe es aquel que sigue luchando a pesar de saber que está vencido. Los Héroes de Malvinas, como los argentinos que, a lo largo de nuestra historia, se entregaron en cuerpo y alma para defender los legítimos derechos del conjunto de sus patriotas, supieron dejarnos un claro ejemplo de cómo se debe honrar la patria. El espíritu de Malvinas nos permite recuperar la esperanza y nos señala a transitar para superar los obstáculos: el camino de la entrega, el amor a la patria y la solidaridad.
+QUE es intención del Municipio de Moreno continuar llevando adelante acciones de homenaje y colaboración para nuestros Veteranos y Héroes de Malvinas y sus familiares que tanto han sufrido por quienes, en definitiva, dieron su vida en pos de recuperar nuestro suelo soberano del Atlántico Sur y en defensa de nuestra libertad.
+POR TODO ELLO, el Honorable Concejo Deliberante, en uso de sus atribuciones legales, sanciona la siguiente:
+ORDENANZA
