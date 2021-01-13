@@ -1,0 +1,17 @@
+Ordenanza Nº6343/20
+Ordenanza Nº 6343/20
+Moreno, 24/09/2020
+VISTO lo actuado en el D.E N° 4078-221.542-5-2020 y;
+CONSIDERANDO:
+QUE por dicho expediente el Departamento Ejecutivo solicita a este Honorable Cuerpo la aprobación del Convenio Marco que permita la suscripción de acuerdas individuales con empresas del sector informático y la Municipalidad, para la realización de obras de infraestructura y tendido de fibra Óptica, ampliando su red, para la presentación del servicio de internet y telecomunicaciones en el Partido de Moreno;
+QUE de cada traza existente y cada ampliación presentada, la Empresa contratante deberá ceder en propiedad al Municipio, al menos, cuatro (4) pelos de fibra Óptica oscura de la traza de red de propiedad de la “Empresa”, sin cargo alguno para el uso del Municipio, para el cumplimiento de los fines institucionales que este requiera. Además de ello deberá ceder 1 pelo de fibra Óptica oscura sobre el drop con posibilidad de apertura donde el Municipio lo solicite;
+QUE por este medio se propende a realizar la ampliación del servicio de internet a 200 Megabytes tanto de bajada como de subida con pool de IPS públicas;
+QUE la Política de Modernización del Estado está instalada en la agenda estratégica del gobierno local, dada la incidencia que esta política tiene sobre el buen desempeño de la gestión gubernamental y es considerada una cuestión de primer orden para el Municipio de Moreno;
+QUE en ese sentido es importante que se logre una mayor interacción del Gobierno con las empresas que trabajan en el ámbito del partido de Moreno en materia de provisión digital de información, sistematización de procesos y prestación de servicios con mejor calidad, conveniencia y costo:
+QUE en relación a esto se ha detectado la necesidad de ampliar el rango de conectividad que existe actualmente en el Partido de Moreno, con la finalidad de fortalecer las relaciones institucionales, brindar un beneficio concreto a los habitantes del Partido de Moreno mediante la posibilidad de conexión de los barrios a Internet mediante el uso de Wifi, brindando asimismo una mayor seguridad de los habitantes del Partido mediante la instalación y conexión de cámaras de seguridad, logrando asimismo la conectividad de sus hospitales, escuelas y las dependencias que la Municipalidad considere convenientes para sus habitantes;
+QUE a fojas 25/29 se encuentra agregado el texto del convenio marco cuya aprobación se propicia, dentro del esquema de cancelación de las obligaciones mediante la dación en pago, todo ello a fin de lograr un mejor servicio a la comunidad Morenense;
+QUE en cumplimiento de lo normado en el Art. 57 de la Ordenanza General N° 267 de Procedimientos Administrativos, a fajas 30 del expediente que nos ocupa, obra dictamen legal con opinión favorable emitido por la Subsecretaria Legal y Técnica,
+QUE a fojas 36 y en cumplimiento de lo establecido en el Art. 187 inciso 06 de la Ley Orgánica Municipal, se encuentra agregado dictamen de la Contaduría Municipal, no teniendo la misma objeciones que realizar en relación a la temática de su incumbencia
+QUE resulta ser competencia del Departamento Deliberante la autorización para la celebración de convenios suscriptos por la Comuna, conforme lo establece el Art. 41. De la Ley Orgánica de las Municipales.
+POR TODO ELLO, el Honorable Concejo Deliberante en uso de sus atribuciones legales, sanciona la siguiente:
+ORDENANZA
