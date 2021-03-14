@@ -1,0 +1,16 @@
+Ordenanza Nº6420/20
+Ordenanza Nº 6420/20
+Moreno, 28/12/2020
+VISTO el Expte. H.C.D N° 34.175/2020, la Ordenanza N° 5.511/15 del Permiso de Funcionamiento de la Economía Social, cuyo Expte. D.E N” 4078-97426-I-2009 determina los establecimientos comerciales, productivos y de servicios que son considerados parte de la Economía Popular y que, por lo tanto, requieren de un tratamiento específico por tratarse de un sector excluido del sector formal.
+CONSIDERANDO QUE el mismo establece los requisitos de pertenencia al Registro de la Economía Social del distrito y acceso al Permiso de Funcionamiento de la Economía Social.
+QUE con voluntad de proteger y fortalecer al sector de la Economía Popular debemos promover la regularización de los trabajadores y trabajadoras vulnerados, fomentando su integración e inclusión socioeconómica.
+QUE es necesario actualizar los principios rectores de los procesos de habilitación y comercio promoviendo un régimen especial: que sea acorde. a la realidad socioeconómica de la economía popular.
+QUE amplios sectores de la sociedad pertenecen al sector de la Economía Popular entendiendo y comprendiendo por tal, a todos aquellos que se inventaron su propio trabajo, como medio para resolver dignamente sus necesidades de vida individual y familiar en condiciones de exclusión y/o desigualdad con respecto al acceso de capital.
+QUE la Economía Popular refiere a las formas y estrategias en que los sectores populares administran los recursos que tienen a su alcance. Que además de ofrecer una gran diversidad de tareas, oficios productivos y sociales que la sociedad requiere, es fuente de satisfacción de necesidades comunitarias.
+QUE al mismo tiempo los sectores populares más vulnerados se procuran el pan de cada día con los recursos que tienen a su alcance, crean lazos sociales y comerciales a través de la organización popular, solidaria y comunitaria.
+QUE en condiciones problemáticas para la sostenimiento de la vida en condiciones básicas de subsistencia, se desarrollan una multiplicidad de asociaciones de la Economía popular y solidaria a partir de la auto-organización, en cuyos casos la presencia femenina supera el 65% aproximándose prácticamente al 100% del total cuando se trata de centros de desarrollo infantil y comedores comunitarios.
+QUE es exigencia de nuestro tiempo actual adecuar instrumentos normativos existentes en cuestión de géneros, igualdad, diversidad y eliminación de las violencias.
+QUE a partir de una profunda crisis económica y social que comenzó en 2016 y que se agudizó durante los periodos comprendidos entre los años 2017 a 2019 por las diversas políticas de ajuste, desempleo, aumento de servicios públicos y esenciales superiores al 1000% e incremento de los alimentos mayores al 70% anual, el sector de la Economía Popular no solo se amplió, sino que se vio fuertemente perjudicado por dicho proceso.
+QUE en este contexto y en condiciones de reproducción de desigualdades y vulneración de amplios sectores de nuestra comunidad, es el Estado desde sus distintos poderes quien debe proporcionar herramientas que acompañen y formalicen a los trabajadores y trabajadoras de la Economía Popular.
+POR TODO ELLO, el Honorable Concejo Deliberante de Moreno, en uso de sus atribuciones legales sanciona la siguiente:
+ORDENANZA
