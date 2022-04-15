@@ -1,0 +1,4 @@
+Artículo 25°: A toda construcción, en parcelas pertenecientes a Club de Campo (Countries), Barrios Cerrados, Condominios o asimilables exceptuando a Parques Industriales, que tenga inicio de obra o este ejecutada totalmente, sin el correspondiente permiso provisorio de obra municipal (obra clandestina) será tomada para el efecto del cálculo de los Derechos de Construcción y Visado con los valores de la columna obra clandestina intimada.
+La Dirección de Obras Particulares según considere, verificara mediante inspección el cumplimiento de las exigencias del Código de Edificación (Ord. No 2602/90 y 2770/90) y de Zonificación (Ord. N° 5537 y 5542/15 y demás disposiciones reglamentarias) independientemente de las observaciones realizadas al momento de otorgar el Permiso Provisorio de Obra, plano aprobado o registrado.
+CAPÍTULO VIII
+DERECHOS DE OCUPACIÓN O USO DE ESPACIOS PÚBLICOS
