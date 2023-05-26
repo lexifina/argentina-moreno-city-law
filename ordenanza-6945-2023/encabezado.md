@@ -1,0 +1,13 @@
+Ordenanza Nº6945/23
+Ordenanza Nº 6945/23
+Moreno, 30/03/2023
+VISTO los Exptes. H.C.D. N° 35.338/2023 y Expte. D.E. N° 228852-S-2021, sobre cesión de tierras, Escuela Secundaria N° 35, Barrio La Reja; y
+CONSIDERANDO que la Secretaría de Educación, Cultura y Deporte de este Municipio viene gestionando la reubicación de establecimientos de educación secundaria, atento a la falta de matrículas para la gran cantidad de niños que viven en nuestro distrito y el reducido espacio con el que cuenta actualmente la Escuela Secundaria N° 35 del Barrio de La Reja, localidad homónima de nuestro Municipio.
+QUE de dichas gestiones se ha propuesto para la zona de La Reja, el inmueble individualizado catastralmente como Circunscripción IV, Sección E, Manzana 131, Parcela 1, para ser afectado a la creación de un Servicio Educativo de Nivel Secundario, debido al gran excedente en la matrícula en el nivel mencionado.
+QUE asimismo, la mencionada institución educativa se encuentra emplazada en el mismo edificio que la Escuela de Educación Primaria N° 29, compartiendo el mismo edificio lo cual dificulta el desarrollo de la actividad educativa debido a la gran cantidad de alumnos y el reducido espacio con el que cuentan.
+QUE por la Ordenanza N° 5.922/18 se procedió a la regularización dominial, a favor de la Dirección General de Cultura y Educación de la Provincia de Buenos Aires, de la parcela individualizada con nomenclatura catastral como Circunscripción IV, Sección E, Manzana 131, Parcela 1, para ser afectado a la creación de un Servicio Educativo de Nivel Inicial, pero que dicha institución educativa hasta la fecha no ha sido construida.
+QUE resulta necesaria la modificación de la Ordenanza N° 5.922/18, a los efectos de procederse a la formalización de la cesión del bien de marras a la Dirección General de Cultura y Educación de la Provincia de Buenos Aires para la reubicación en ese predio de la Escuela Secundaria N° 35.
+QUE se han expedido de manera favorable todas las áreas municipales de incumbencia y con competencia en el tema conforme surge del precitado Expediente Municipal N° 4078-228852-S-2021.
+QUE la cesión se realiza en el marco del Artículo 10° del Decreto Ley N° 9533/80, que establece que Las Municipalidades cederán sin cargo al Estado Provincial las reservas de uso público que les sean requeridas para equipamiento comunitario. Siendo que el Decreto Ley mencionado invirtió el principio general antes vigente por el cual los inmuebles destinados al uso público pertenecían a la Provincia y el dominio constituía una excepción a tal principio (Ley sobre fraccionamiento y de creación de Pueblos).
+POR TODO ELLO, el Honorable Concejo Deliberante de Moreno, en uso de sus atribuciones legales sanciona la siguiente:
+ORDENANZA
