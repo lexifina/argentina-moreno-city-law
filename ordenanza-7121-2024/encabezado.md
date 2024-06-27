@@ -1,0 +1,11 @@
+Ordenanza Nº7121/24
+Ordenanza Nº 7121/24
+Moreno, 25/04/2024
+VISTO los Exptes. H.C.D. N° 35.704/2023 y el Expte. D.E. N° 256684-S-2023, mediante el cual solicita cambio de circulación del túnel bajo nivel del antiguo camino real; y
+CONSIDERANDO la obra pública que se llevó adelante, de manera mancomunada entre los organismos públicos Trenes Argentinos y el Municipio de Moreno este último representando por la Secretaría de Obras y Servicios Públicos, la Secretaría de Tránsito y Transporte, con el fin de dotar de infraestructura a la localidad de Paso del Rey y solucionar un inconveniente histórico de circulación vehicular en el casco céntrico de la misma. Como resultado de la sinergia anteriormente mencionada se materializo un “Túnel vehicular” bajo las líneas del Ferrocarril Domingo Faustino Sarmiento.
+QUE dicho Túnel genera una vinculación directa de la trama urbana norte y sur de la localidad, por intermedio de las Avenidas Alcorta Norte y Sur, generando una mejora directa en términos viales y reordenamiento vehicular de la zona y por consiguiente mejorar la calidad de vida de nuestros vecinos. Por lo aludido resulta fundamental reglamentar las condiciones de circulación y demás disposiciones de seguridad vial.
+QUE en las inmediaciones del túnel se llevaron adelante obras complementarias para facilitar la circulación y la integración de la zona, disponiendo la ampliación de calzadas, pavimentos de asfalto, iluminación pública, equipamiento semafórico, señalización vertical y horizontal estableciendo las maniobras permitidas según la normativa vigente.
+QUE la Secretaría de Tránsito y Transporte llevo adelante un trabajo territorial amplio tanto en la zona focal como en las inmediaciones a la misma, realizando estudio de flujo de tránsito, demanda vehicular, estado y conectividad de las arterias conexas, caracterización de la trama urbana, sentido de circulación de calles, etc.
+QUE las acciones anteriormente aludidas generaron un trabajo interdisciplinario con la finalidad de disponer de posibles medidas y acciones necesarias para su correcto funcionamiento y desarrollo del tránsito.
+POR TODO ELLO, el Honorable Concejo Deliberante de Moreno, en uso de sus atribuciones legales sanciona la siguiente:
+ORDENANZA
