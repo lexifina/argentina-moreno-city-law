@@ -1,0 +1,15 @@
+Ordenanza Nº7178/24
+Ordenanza Nº 7178/24
+Moreno, 25/07/2024
+VISTO el Expte. H.C.D. N° 35.858/2024, mediante el cual solicita la creación del Programa “Sembrando el futuro” sobre la realización de huertas comunitarias en el nivel inicial; y
+CONSIDERANDO la propuesta del mencionado programa iniciado por el Jardín de Infantes N° 923 del Barrio San Carlos, Partido de Moreno.
+QUE es fundamental promover políticas públicas que impulsen el desarrollo sostenible en materia ambiental y alimentaria, protegiendo los derechos inalienables de los niños, niñas y adolescentes contemplados en nuestra Constitución Nacional argentina.
+QUE el proyecto se enmarca en los objetivos de la Agenda de Desarrollo Sostenible 2030, propuesta por la Organización de las Naciones Unidas (2015) y con el Diseño Curricular de Nivel Inicial (2022), el cual aborda la Educación Ambiental Integral.
+QUE la Organización de las Naciones Unidas (ONU), tiene específicamente los siguientes objetivos: poner fin a la pobreza y al hambre en todas sus formas; proteger el planeta contra la degradación ambiental; velar para que todos los seres humanos puedan disfrutar de una vida prospera y plena; favorecer la construcción de sociedades pacíficas, justas, inclusivas y libres de violencia; promover una Alianza Mundial para el Desarrollo Sostenible basada en un espíritu de mayor solidaridad mundial.
+QUE la ejecución de dicho proyecto significaría un complemento a las diversas políticas públicas existentes afines a la promoción de la soberanía alimentaria y vinculación responsable con el ambiente, incorporándose desde la temprana edad.
+QUE la presencia de programas comunitarios en instituciones educativas favorecen la cohesión social y propician ámbitos saludables de convivencia, articulándose los distintos actores sociales con un enfoque colaborativo y solidario.
+QUE el presente proyecto, se encuentra afín con el punto 1.4 del Diseño Curricular de Nivel Inicial (2022), el cual aborda la Educación Ambiental Integral, desde un enfoque que parte del reconocimiento del derecho de todos los ciudadanos a vivir en un entorno saludable, digno y diverso.
+QUE la Ley Nacional N° 27.621 establece la implementación de la educación ambiental integral en nuestro país, así como la Estrategia Nacional de Educación Ambiental (2022), donde se plantea el objetivo de educar para el cuidado y la protección del ambiente como parte fundamental en la formación de ciudadanos comprometidos con los principios democráticos y los derechos fundamentales.
+QUE el Diseño Curricular, formaliza una visión específica de la educación ambiental entendida como un proceso continuo, integral y transversal, destacando la relevancia de la ciudadanía en el enfoque de la educación ambiental. Esto se refiere a cómo construimos una sociedad sostenible, orientada hacia un nuevo horizonte cultural y una perspectiva vital compartida.
+POR TODO ELLO, el Honorable Concejo Deliberante de Moreno, en uso de sus atribuciones legales sanciona la siguiente:
+ORDENANZA
