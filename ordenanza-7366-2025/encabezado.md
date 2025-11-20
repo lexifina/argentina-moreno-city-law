@@ -1,0 +1,14 @@
+Ordenanza Nº7366/25
+Ordenanza Nº 7366/25
+Moreno, 17/07/2025
+VISTO el Expte. H.C.D. N° 36.273/2025, mediante el cual solicitan Declarar de Interés Público Municipal la celebración de los 40 años del “Taller Protegido TADIM”; y
+CONSIDERANDO que el próximo 15 de julio se celebrará el 40° aniversario del Taller Protegido TADIM.
+QUE, el mismo fue creado en el año 1985 bajo la (Ordenanza Nº 1687/86) con el objetivo de promover el desarrollo laboral de las personas con discapacidad, mejorando el acceso al empleo y posibilitar la obtención, conservación y progreso en un empleo protegido y/o regular en el ámbito público y/o privado.
+QUE, la Convención Sobre los Derechos de las Personas con Discapacidad en su Artículo 24°, Incs. 3 estipula que “Los Estados Partes brindarán a las personas con discapacidad la posibilidad de aprender habilidades para la vida y desarrollo social, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y como miembros de la comunidad.”
+QUE, en el Artículo 27°, Incs. 1, de la Convención antes citada determina que: “Los Estados Partes reconocen el derecho de las personas con discapacidad a trabajar, en igualdad de condiciones con las demás; ello incluye el derecho a tener la oportunidad de ganarse la vida mediante un trabajo libremente elegido o aceptado en un mercado y un entorno laborales que sean abiertos, inclusivos y accesibles a las personas con discapacidad”
+QUE, la Ley Nacional N° 25.280 que aprueba la Convención Interamericana para la eliminación de Todas las Formas de Discriminación contra las personas con Discapacidad en su Artículo 3° estipula “Adoptar las medidas de carácter legislativo, social, educativo, laboral o de cualquier otra índole, necesarias para eliminar la discriminación contra las personas con discapacidad y propiciar su plena integración en la sociedad”.
+QUE, el Taller Protegido TADIM ofrece herramientas de entrenamiento laboral a personas con discapacidad intelectual, en condiciones adecuadas a sus posibilidades, ritmo y secuencia.
+QUE, actualmente el Taller cuenta con treinta y nueve (39) operarios/as, personas con discapacidad intelectual, mayores de 18 años de edad que realizan actividades en torno a cuatro ejes: producción, capacitación, inclusión comunitaria y socio-recreación, contando con una Asociación Civil cooperadora “MANUT” (Manos Unidas de TADIM), a través de la cual se comercializan los productos y servicios.
+QUE, es deber del Estado Municipal acompañar y visibilizar esta iniciativa que no solo logró consolidar como un taller protegido de producción donde se potencian las capacidades individuales sino que también fortalece los lazos comunitarios en nuestro municipio y apuesta por una sociedad más justa e inclusiva.
+Por ello, EL HONORABLE CONCEJO DELIBERANTE DE MORENO, en uso de sus atribuciones legales sanciona la siguiente:
+ORDENANZA
