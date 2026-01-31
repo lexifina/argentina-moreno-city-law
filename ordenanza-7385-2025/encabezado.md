@@ -1,0 +1,15 @@
+Ordenanza Nº7385/25
+Ordenanza Nº 7385/25
+Moreno, 25/09/2025
+VISTO el Expte. H.C.D. N° 36.338/2025, mediante el cual solicita Declarar de Interés Municipal la celebración del 50º Aniversario de la Escuela Primaria N° 41 de Moreno Norte que se realizara el 26 de Septiembre del corriente año; y
+CONSIDERANDO que la Escuela Primaria N° 41 inició sus actividades en el año 1975, en un contexto de gran crecimiento poblacional en la zona de Moreno Norte, cuando la comunidad demandaba con urgencia nuevas instituciones educativas que pudieran dar respuesta a la expansión demográfica.
+QUE, en sus inicios la escuela funcionó en espacios provisorios, con gran esfuerzo de padres, vecinos y docentes que gestionaron materiales, realizaron tareas comunitarias y acompañaron el proceso de consolidación del establecimiento.
+QUE, según las memorias compiladas por los docentes de la institución, entre los primeros impulsores y referentes de la comunidad se encuentran familias y vecinos históricos de la localidad que donaron recursos, además de su tiempo, para que los niños y niñas del barrio pudieran acceder a la educación pública en condiciones dignas, como lo fue la familia Cerquetella que ofreció el espacio para poner en funcionamiento la escuela.
+QUE, esta historia de cooperación y acción comunitaria estableció las bases para que, posteriormente, con la construcción de un edificio propio —hecho que marcaría una nueva etapa de estabilidad y crecimiento—, se lograra la organización de actos escolares, ferias educativas y actividades comunitarias que trascendieron el ámbito escolar.
+QUE, a lo largo de sus cincuenta años de trayectoria la EP N° 41 ha albergado a generaciones de estudiantes que hoy son parte activa de la vida Social, Política, Cultural y Económica de Moreno, llevando con orgullo la formación recibida en sus aulas.
+QUE, la escuela ha sido testigo y protagonista de los cambios sociales y urbanos de Moreno Norte, adaptándose a las transformaciones del distrito y contribuyendo de manera constante al fortalecimiento del entramado comunitario.
+QUE, en el transcurso de la historia , diferentes docentes y directivos han dejado una huella imborrable en la institución, siendo recordados por su compromiso y dedicación en épocas difíciles, así como por su creatividad en la implementación de propuestas innovadoras en el acompañamiento de los procesos de aprendizaje y formación de los y las estudiantes con relación a su comunidad.
+QUE, como parte de sus proyectos pedagógicos y comunitarios se destacan experiencias vinculadas a la educación artística, la promoción de la lectura, la integración con otras instituciones del barrio y la preservación de la memoria histórica local.
+QUE, los 50 años de la Escuela N°41 constituye no solo un aniversario institucional, sino que marca una verdadera celebración de la educación pública, gratuita y de calidad, en tanto derecho fundamental y motor de igualdad de oportunidades.
+Por ello, EL HONORABLE CONCEJO DELIBERANTE DE MORENO, en uso de sus atribuciones legales sanciona la siguiente:
+ORDENANZA
