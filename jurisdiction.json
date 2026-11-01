@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-moreno",
+  "code": "AR-B-MORENO",
+  "name": "Moreno",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-moreno-city-law",
+  "build": "built: municipal ordinances (189 ordinances, 189 versions) from https://sibom.slyt.gba.gob.ar/cities/86",
+  "language": "es",
+  "sources": 1
+}
