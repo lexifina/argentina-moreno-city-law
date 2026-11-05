@@ -1,12 +1,13 @@
 # How this repository was made (Moreno)
 
-This file is written by the build on 2026-11-01, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Moreno | <https://sibom.slyt.gba.gob.ar/cities/86> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Boletín Oficial Municipal de Moreno (SIBOM), as-published ordinances | <https://sibom.slyt.gba.gob.ar/cities/86> | 2026-11-05 | Official public acts reproduced with attribution; no additional licence claimed. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -203,20 +204,130 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-7567-2026` | Ordenanza 7567/2026: Declárase de Interés Municipal la Maratón impulsada por la Juventud de la Agrupación Reconquista, a realizarse en el Partido de Moreno durante el 31 de Octubre del cte. Año, en el marco del Mes de la Prevención del Suici | 1 | 2026-10-31 to 2026-10-31 |
 | `ordenanza-7569-2026` | Ordenanza 7569/2026: Créase una Sociedad Anónima con Participación Estatal Mayoritaria bajo la denominación “VIA MORENO S.A.P.E.M.”, o la denominación que autorice la autoridad registral, sujeta al régimen de los artículos 308 y siguientes d | 1 | 2026-10-31 to 2026-10-31 |
 | `ordenanza-7570-2026` | Ordenanza 7570/2026: Autorícese la solicitud de prórroga por 60 días a partir del 31 de octubre para la presentación del Proyecto de Presupuesto General de Gastos y recursos para el Ejercicio 2027. | 1 | 2026-10-31 to 2026-10-31 |
+| `ordenanza-5687-2016` | Ordenanza 5687/2016: Convalídese el Decreto H.C.D. N° 138/16 mediante el cual se fija la dieta de los Sres. Concejales conforme a lo establecido en el Art. 92° Inc. e) de la L.O.M. | 1 | 2017-04-19 to 2017-04-19 |
+| `ordenanza-5691-2016` | Ordenanza 5691/2016: Homológase el Convenio suscripto entre el Hospital Zonal General Mariano y Luciano de la Vega y nuestra Comuna, obrante a fojas 03/05 del Expediente Nº 4078- 179711-S-2016.- | 1 | 2017-04-19 to 2017-04-19 |
+| `ordenanza-5692-2016` | Ordenanza 5692/2016: Autorízase al Departamento Ejecutivo para la suscripción del Convenio Marco a celebrarse entre Natural Servicios SA y la Municipalidad de Moreno, según constancias obrantes en el Expte Nº 4078-178889-S-2016.- | 1 | 2017-04-19 to 2017-04-19 |
+| `ordenanza-5805-2017` | Ordenanza 5805/2017: Homológase el Convenio suscripto entre las Municipalidades de Hurlingham y Moreno, obrante a fojas 11/12 del Expediente N° 4078-176728-S-2016.- | 1 | 2017-09-15 to 2017-09-15 |
+| `ordenanza-5828-2017` | Ordenanza 5828/2017: Declarase de Interés Municipal la Señalización como Sitio de la Memoria al ex Instituto de menores Mercedes de Lasala y Riglos; en el predio donde en la actualidad desarrolla sus actividades académicas la Universidad Nac | 1 | 2017-11-15 to 2017-11-15 |
+| `ordenanza-5858-2017` | Ordenanza 5858/2017: Desaféctese del destino de espacio verde y libre público el inmueble, con una superficie de 1667,09 m2, identificado catastralmente como Circunscripción V, Sección B, Manzana 37, Parcela 12, y aféctese a reserva de equip | 1 | 2018-02-24 to 2018-02-24 |
+| `ordenanza-5869-2018` | Ordenanza 5869/2018: Aceptase la donación efectuada por la Empresa “Transportes La Perlita S.A” de dos vehículos, cuyas características son las siguientes: 1) Dominio GFV 287; Modelo: OF1418; Año 2007, Marca: Mercedes Benz; Chasis; 9BM384067 | 1 | 2018-02-24 to 2018-02-24 |
+| `ordenanza-5842-2017` | Ordenanza 5842/2017: Declárase de Interés Público, Deportivo y Municipal al Festival Latinoamericano de Futbol 3, Buenos Aires Noviembre 2017, impulsado por la Red Global “Streetfootballworld”, que se llevará a cabo del 2 al 6 de Noviembre e | 1 | 2018-04-21 to 2018-04-21 |
+| `ordenanza-5931-2018` | Ordenanza 5931/2018: Acéptese el Veto según Decreto N° 925 del día 21 de Mayo de 2018 obrante a fs. 821/822, de la Ordenanza N° 5.894 sancionada el 10 de mayo de 2018 obrante a fs. 819/820. | 1 | 2018-08-22 to 2018-08-22 |
+| `ordenanza-5940-2018` | Ordenanza 5940/2018: Declárase de Interés Municipal a las actividades de la Semana de Sensibilización de la Mesa Distrital Intersectorial de Género, realizado entre el 4 al 8 de Junio del 2018. | 1 | 2018-08-22 to 2018-08-22 |
+| `ordenanza-5941-2018` | Ordenanza 5941/2018: Autorízase la emisión del Bono Contribución Voluntario que organizará la Asociación Bomberos Voluntarios del Partido de Moreno.- | 1 | 2018-09-26 to 2018-09-26 |
+| `ordenanza-5948-2018` | Ordenanza 5948/2018: Desígnase “PLAZA HÉROES DE MALVINAS” al espacio físico ubicado frente a la “Plaza Bujan”, sector oeste, y que se encuentra comprendido por las calles Justo Daract entre Arribeños y Facundo Quiroga.- | 1 | 2018-09-26 to 2018-09-26 |
+| `ordenanza-5947-2018` | Ordenanza 5947/2018: Cédase sin cargo a la Dirección General de Cultura y Educación de la Provincia de Buenos Aires el inmueble designado catastralmente como: Circunscripción V, Sección B, Manzana 37, Parcela 12, del Partido de Moreno, para  | 1 | 2018-10-25 to 2018-10-25 |
+| `ordenanza-5960-2018` | Ordenanza 5960/2018: Apruébase el espacio exclusivo para que se detenga la combi en la puerta de la propiedad de la solicitante Sra. Nancy Correa, para que el vehículo pueda realizar las maniobras necesarias para el ascenso y descenso a su h | 1 | 2018-11-23 to 2018-11-23 |
+| `ordenanza-5965-2018` | Ordenanza 5965/2018: Declárase de Interés Turístico y Cultural a la receta del guiso carrero “El Morenito”.- | 1 | 2018-12-30 to 2018-12-30 |
+| `ordenanza-5998-2018` | Ordenanza 5998/2018: Autorízase al Departamento Ejecutivo para la suscripción del Convenio Afectación a Protección de la Vivienda entre la Dirección Provincial del Registro de la Propiedad y la Municipalidad de Moreno, en trámite bajo el Exp | 1 | 2018-12-30 to 2018-12-30 |
+| `ordenanza-6002-2018` | Ordenanza 6002/2018: Agréguese en los recorridos del transporte Público Empresa la Perlita que circulan por la Avenida Victorica al 660 las paradas enfrentadas entre las calles Sarratea y Padre Arellano.- | 1 | 2018-12-30 to 2018-12-30 |
+| `ordenanza-6030-2018` | Ordenanza 6030/2018: Autorizase a la colocación de una referencia histórica del puente carretero sobre el Rio de la Reconquista, que se encontrara operativo entre los años 1871 y 1930, en las inmediaciones de la calle Bartolomé Mitre y la in | 1 | 2019-01-25 to 2019-01-25 |
+| `ordenanza-6032-2018` | Ordenanza 6032/2018: Convalídese el Acta Acuerdo de Adhesión suscripta entre el Centro de Estudios Metropolitanos Consorcio de cooperación y nuestra Comuna, según constancias obrantes en el Expediente N° 4078-190544-S-2017.- | 1 | 2019-01-25 to 2019-01-25 |
+| `ordenanza-6085-2019` | Ordenanza 6085/2019: Autorízase al Departamento Ejecutivo a la firma de la Licitación Pública N° 05/2018 con excedente presupuestario, adjudicando la misma a la Empresa POSE S.A., a quien la Municipalidad de Moreno le encomendará la ejecució | 1 | 2019-04-26 to 2019-04-26 |
+| `ordenanza-6131-2019` | Ordenanza 6131/2019: Convalídese el Decreto N° 690 del día 20 de Abril de 2018 obrante a fojas 2 del Expediente H.C.D. N° 33.399/19.- | 1 | 2019-04-26 to 2019-04-26 |
+| `ordenanza-6139-2019` | Ordenanza 6139/2019: Convalídese el Decreto N° 2447 del día 18/12/18 obrante a fojas 3 del Expediente H.C.D N° 33.306/18.- | 1 | 2019-05-30 to 2019-05-30 |
+| `ordenanza-6140-2019` | Ordenanza 6140/2019: Adhiérase a la Ley N° 15104 que declara el año 2019 como “Año del Centenario del Nacimiento de Eva María Duarte de Perón”, en conmemoración al cumplimiento de su 100° aniversario donde asimismo que durante el año 2019, t | 1 | 2019-08-03 to 2019-08-03 |
+| `ordenanza-6145-2019` | Ordenanza 6145/2019: Homologase el Convenio de Colaboración y Complementación Científico Técnico autorizando prácticas de estudiantes de las Carreras del Departamento de Ciencias de la Salud de la Universidad Nacional de La Matanza en las un | 1 | 2019-08-03 to 2019-08-03 |
+| `ordenanza-6171-2019` | Ordenanza 6171/2019: Homológase el Convenio suscripto entre la Asociación Civil Moreno Comunicaciones y la Municipalidad de Moreno, obrante a fojas 68/69 del Expediente N° 4078-173835-A-2016.- | 1 | 2019-09-08 to 2019-09-08 |
+| `ordenanza-6193-2019` | Ordenanza 6193/2019: Condónase la deuda existente de tasa de servicios generales, correspondiente a la partida municipal N° 129138, hasta el 31 de Diciembre del 2018.-- | 1 | 2020-01-01 to 2020-01-01 |
+| `ordenanza-6198-2019` | Ordenanza 6198/2019: Acéptase la donación de dos aires acondicionados 4000 a 5000 frigorías dos PC All In One 19.5” 8GB y una heladera Peetlab, según constancias obrantes en el Expediente N° 4078-214392-S-2019.- | 1 | 2020-01-01 to 2020-01-01 |
+| `ordenanza-6207-2019` | Ordenanza 6207/2019: Condónase la deuda existente de servicios generales, correspondiente a la partida Municipal N° 89242, hasta el 31 de Diciembre del 2018.- | 1 | 2020-01-01 to 2020-01-01 |
+| `ordenanza-6222-2019` | Ordenanza 6222/2019: Condónase la deuda existente de servicios generales, correspondiente a la partida Municipal N° 168808, hasta el 31 de Diciembre del 2018.- | 1 | 2020-02-09 to 2020-02-09 |
+| `ordenanza-6223-2019` | Ordenanza 6223/2019: Condónase la deuda existente de servicios generales, correspondiente a la partida municipal N° 49262, hasta el 31 de Diciembre del 2018.- | 1 | 2020-02-09 to 2020-02-09 |
+| `ordenanza-6232-2019` | Ordenanza 6232/2019: Condónase la deuda existente de tasa de servicios generales, correspondiente a la partida municipal N° 76242, hasta el 31 de Diciembre del 2018.- | 1 | 2020-02-09 to 2020-02-09 |
+| `ordenanza-6233-2019` | Ordenanza 6233/2019: Condónase la deuda por servicios generales del Expediente H.C.D. N° 33.004/18, correspondiente a las partidas municipales N° 103195, 103196 y 103197.- | 1 | 2020-02-09 to 2020-02-09 |
+| `ordenanza-6235-2019` | Ordenanza 6235/2019: Declárase en el Partido de Moreno el 31 de Octubre de cada año como el “Día de las Iglesias Evangélicas de Moreno”.- | 1 | 2020-02-09 to 2020-02-09 |
+| `ordenanza-6249-2019` | Ordenanza 6249/2019: Convalídese el Decreto N° 2.960/19 del Departamento Ejecutivo Municipal en los términos del Artículo 206° de la Ley Orgánica de las Municipalidades, para la designación de la Sra. Amaya, Carolina DNI 22.976.10, como Admi | 1 | 2020-03-12 to 2020-03-12 |
+| `ordenanza-6253-2019` | Ordenanza 6253/2019: Convalídese el Decreto N° 2.961/19 del Departamento Ejecutivo Municipal en los términos del Artículo 206° de la Ley Orgánicas de las Municipalidades, para la designación de la Sra. Giménez, María, DNI N° 24.711.301, como | 1 | 2020-03-12 to 2020-03-12 |
+| `ordenanza-6273-2020` | Ordenanza 6273/2020: Modifíquese el Artículo 4ªde la Ordenanza Nº 103/97, modificado por la Ordenanza Nº 5497/14, el que quedará redactado de la siguiente manera: | 1 | 2020-10-07 to 2020-10-07 |
+| `ordenanza-6291-2020` | Ordenanza 6291/2020: Convalídese el Convenio suscripto entre la Fundación Nuria para Promoción Humana de Poblaciones Vulnerables y la Municipalidad de Moreno. | 1 | 2020-12-05 to 2020-12-05 |
+| `ordenanza-6311-2020` | Ordenanza 6311/2020: Acéptese la donación de los siguientes bienes: una heladera, 4 camillas 4 biombos, 1 aire acondicionado, 1 computadora integrada y 1 electrocardiógrafo según constancias obrantes en Expediente N° 4078-216363-S-2019.- | 1 | 2021-01-13 to 2021-01-13 |
+| `ordenanza-6317-2020` | Ordenanza 6317/2020: Cédase a la Dirección General de Cultura y Educación el inmueble identificado catastralmente como Circ. 3, Secc. S, Manzana 55, Parcela N°2, con todo lo plantado, clavado y edificado y adherido al suelo, en el estado en  | 1 | 2021-01-13 to 2021-01-13 |
+| `ordenanza-6343-2020` | Ordenanza 6343/2020: Apruébese el Convenio Marco cuyo texto se agrega a fojas 26/30 del expediente N° 4078-221.542-S-2020, autorizándose al Departamento Ejecutivo a la suscripción del mismo, y las actas complementarias correspondientes “Ad R | 1 | 2021-01-13 to 2021-01-13 |
+| `ordenanza-6344-2020` | Ordenanza 6344/2020: Apruébese el Convenio Marco cuyo texto se agrega a fojas 26/30 del expediente N° 4078-221.543-S-2020, autorizándose al Departamento Ejecutivo a la suscripción del mismo, y las actas complementarias correspondientes “Ad r | 1 | 2021-01-13 to 2021-01-13 |
+| `ordenanza-6354-2020` | Ordenanza 6354/2020: Amplíese la cantidad de toneladas de material bituminoso que la empresa concesionaria debe entregar mensualmente, destinado a la reparación de pavimentos y bacheo, de las 200 Tn (doscientas toneladas) estipuladas como mí | 1 | 2021-01-23 to 2021-01-23 |
+| `ordenanza-6372-2020` | Ordenanza 6372/2020: Modifíquese el Artículo 14° de la Ordenanza N° 6271 Bis/2020 el que quedará redactado de la siguiente manera: Una vez agotada todas las instancias anteriormente mencionadas, el Municipio podrá disponer del uso de los veh | 1 | 2021-02-19 to 2021-02-19 |
+| `ordenanza-6373-2020` | Ordenanza 6373/2020: Autorícese la firma del Convenio de Comodato a suscribir entre Ia Municipalidad de Moreno y el Hospital Mariano y Luciano de la Vega, agregado en Expte D.E. N° 4078-220731-S-2020 en relación al uso de bienes cuyas caract | 1 | 2021-02-19 to 2021-02-19 |
+| `ordenanza-6383-2020` | Ordenanza 6383/2020: Condónese la deuda contraída por la Asociación Hermanas de Nuestra Señora del Rosario, con excepción de la tasa que se abona a través de Edenor SA., partida Municipal 103256 contenida en el presente expediente número 335 | 1 | 2021-02-19 to 2021-02-19 |
+| `ordenanza-6385-2020` | Ordenanza 6385/2020: Condónese la deuda contraída, a excepción de la que se abona a través de Edenor SA. por la institución " Federación. De Asociación de Bomberos Voluntarios de la Tasa de Servicios Generales de la Partida Municipal 82965-8 | 1 | 2021-02-19 to 2021-02-19 |
+| `ordenanza-6386-2020` | Ordenanza 6386/2020: Condónese la deuda contraída por el Club Defensores de Moreno , de Tasa de Servicios Generales de la Partida Municipal 159563, con excepción de la tasa que se abona a través de Edenor SA. | 1 | 2021-02-19 to 2021-02-19 |
+| `ordenanza-6427-2021` | Ordenanza 6427/2021: Homológuese la suscripción del Convenio para el desarrollo de Centros Comerciales a cielo abierto en la Ciudad de Moreno, según constancias obrantes en el Expte. N° 4078-218687-S-2020.- | 1 | 2021-05-12 to 2021-05-12 |
+| `ordenanza-0572-2021` | Ordenanza 0572/2021: Permítase la plantación de un árbol como símbolo de reivindicación a las víctimas de la desaparición forzada de compañerxs, en la vereda de la Sede Gremial Sitram (Merlo 2839). Acompañando de un asiento para la reflexión | 1 | 2021-05-19 to 2021-05-19 |
+| `ordenanza-6449-2021` | Ordenanza 6449/2021: Declárese de Interés Patrimonial, Histórico, Simbólico y Social el predio denominado “QUINTA LA PASTORIL” ubicado en Avenida Monsegur 1862, Circunscripción 2, Sección A, Chacra 33, Parcela 3, Partida 2449. | 1 | 2021-05-19 to 2021-05-19 |
+| `ordenanza-6454-2021` | Ordenanza 6454/2021: Solicítese al Departamento Ejecutivo la colocación del cartel de Señalización de Espacio Reservado para Discapacitados en las Calles: Av. Néstor Kirchner al 2600 e/Belgrano y María Elena Uhart; B° Lomas de Marilo. | 1 | 2021-05-19 to 2021-05-19 |
+| `ordenanza-6456-2021` | Ordenanza 6456/2021: Solicítese al Departamento Ejecutivo la colocación del cartel de Señalización de Espacio Reservado para Discapacitados en la Calle: Triunvirato N° 2375 e/Las Américas y Rosario; B° Trujui. | 1 | 2021-05-19 to 2021-05-19 |
+| `ordenanza-6497-2021` | Ordenanza 6497/2021: Solicítese al Departamento Ejecutivo la realización de un monumento en honor a Personal Esencial de Salud, que el mismo sea emplazado en el polo de Salud Municipal (predio donde funciona el Hospital y el Centro de Salud  | 1 | 2021-05-19 to 2021-05-19 |
+| `ordenanza-6538-2021` | Ordenanza 6538/2021: Convalídese el Convenio de Cooperación suscripto entre la Municipalidad de Hurlingham y Municipalidad de Moreno, cuya copia luce a fojas 10-12 obrante del Expediente D.E. N° 4078-206597-S-2018. | 1 | 2021-10-06 to 2021-10-06 |
+| `ordenanza-6562-2021` | Ordenanza 6562/2021: Declárase de interés Municipal a la Jornada denominada “Día Internacional de la Música Cristiana”, que se realizó el día 07/07/2021 de manera virtual. | 1 | 2021-12-08 to 2021-12-08 |
+| `ordenanza-6590-2021` | Ordenanza 6590/2021: Declárase de Interés Municipal, Educativo, Cultural, Social y Comunitario, el Programa de Coros y Orquestas Infantiles y Juveniles del Bicentenario que funcionan en la E.EM N° 2 del Barrio Parque, E.P. N° 9 del Barrio Pa | 1 | 2021-12-22 to 2021-12-22 |
+| `ordenanza-6593-2021` | Ordenanza 6593/2021: Créase en el ámbito de nuestro partido el Paseo de los Artesanos y Artesanas de Moreno en la Plaza San Martin sobre la calle Bmé. Mitre, o en el sitio donde convinieran de común acuerdo emplazar. | 1 | 2021-12-22 to 2021-12-22 |
+| `ordenanza-6610-2021` | Ordenanza 6610/2021: Facúltase al Departamento Ejecutivo a suscribir acuerdo de colaboración entre la Municipalidad de Moreno y el Registro Nacional de Cultos de la Nación, dependiente del Ministerio de Relaciones Exteriores y Culto. | 1 | 2022-01-05 to 2022-01-05 |
+| `ordenanza-6611-2021` | Ordenanza 6611/2021: Homológase el Decreto N° 1595/2021 en el cual designa al Dr. Aliaga, Federico (D.N.I. 31.011.192-Legajo N° 22.523) como Administrador General del Organismo Descentralizado "Instituto de Desarrollo Urbano, Ambiental y Reg | 1 | 2022-01-05 to 2022-01-05 |
+| `ordenanza-6636-2021` | Ordenanza 6636/2021: Autorizase al Departamento Ejecutivo a la suscripción del Convenio de Adhesión al servicio de procesamiento electrónico de pagos que se celebrará entre la firma "MercadoLibre S.R.L" y nuestra comuna, según constancias ob | 1 | 2022-01-27 to 2022-01-27 |
+| `ordenanza-6657-2021` | Ordenanza 6657/2021: Créase el Programa de capacitación en técnicas de marketing digital para el sector productivo y comercial de Moreno, el cual estará disponible de manera gratuita y online en la página institucional del municipio. | 1 | 2022-02-20 to 2022-02-20 |
+| `ordenanza-6669-2021` | Ordenanza 6669/2021: Convalidase el Convenio Marco de Adhesión al Plan Nacional de Suelo Urbano, suscripto entre la Subsecretaria de Política de Suelo y Urbanismo del Ministerio de Desarrollo Territorial y Hábitat de la Nación Argentina y la | 1 | 2022-04-15 to 2022-04-15 |
+| `ordenanza-6717-2022` | Ordenanza 6717/2022: Amplíese el recorrido N°43 Moreno-Barrio El Quijote, de la Empresa de Transporte La Perlita S.A., quedando redactado de la siguiente manera: | 1 | 2022-08-10 to 2022-08-10 |
+| `ordenanza-6720-2022` | Ordenanza 6720/2022: Homologase el Decreto Municipal N°0809/2021 donde se designa a la señora Noguera, María José (D.N.I. N°23.705.174 –Legajo N° 5702) como Jefa de Compras del Organismo Descentralizado “Instituto Municipal de Desarrollo Eco | 1 | 2022-08-10 to 2022-08-10 |
+| `ordenanza-6722-2022` | Ordenanza 6722/2022: Homologase el Decreto Municipal N°0051/2022 donde se designa a la Señora Marinaro, Vanesa Daiana (D.N.I. N° 31.452.325 –Legajo N°14994) como Contadora del Instituto Municipal de Desarrollo Económico Local (IMDEL). | 1 | 2022-08-10 to 2022-08-10 |
+| `ordenanza-6748-2022` | Ordenanza 6748/2022: Declárese Patrimonio Histórico y Cultural de Moreno a “La Calesita”, a volver a instalarse en la Plaza Domingo Faustino Sarmiento de Paso del Rey Sur, Partido de Moreno. | 1 | 2022-09-04 to 2022-09-04 |
+| `ordenanza-6755-2022` | Ordenanza 6755/2022: Declárese Ciudadano Ilustre Post Mortem al artista, músico y compositor, Roberto Andres Pandolfo, más conocido como “Palo Pandolfo”, en reconocimiento por su talento cultural, quien ha elegido nuestro querido Distrito de | 1 | 2022-09-04 to 2022-09-04 |
+| `ordenanza-6782-2022` | Ordenanza 6782/2022: Solicítese al Departamento Ejecutivo, a través del área que corresponda, arbitre los medios necesarios para ampliar el recorrido N° 21 de la Empresa Transporte La Perlita S.A., extendiéndose el mismo por las calles Evari | 1 | 2022-10-05 to 2022-10-05 |
+| `ordenanza-6785-2022` | Ordenanza 6785/2022: Acéptese la donación de MIL (1.000) durmientes de quebracho colorado o blanco clasificados como materiales producidos no útiles, clase técnica 4.2. (Poste), para ser utilizados en la construcción de un anfiteatro y tribu | 1 | 2022-11-02 to 2022-11-02 |
+| `ordenanza-6810-2022` | Ordenanza 6810/2022: Declárese de Interés Cultural y Educativo Municipal el Festival Internacional de títeres de gestión independiente denominado “Fiestiteres”, a realizarse entre el 1° y el 17 de septiembre bajo la dirección del grupo Carat | 1 | 2022-11-02 to 2022-11-02 |
+| `ordenanza-6815-2022` | Ordenanza 6815/2022: Crease la Comisión Especial para el seguimiento de la causa judicial por la muerte de Sandra Calamano y Rubén Rodriguez en la explosión de la Escuela Nro. 49, en la Localidad de Trujui, Partido de Moreno, el día 2 de ago | 1 | 2022-12-08 to 2022-12-08 |
+| `ordenanza-6825-2022` | Ordenanza 6825/2022: Declárese de interés cultural y municipal la 14ava edición de la Feria del Libro de Moreno a realizarse los días 14 y 15 de Octubre en las instalaciones de Paso del Rey Social Club. | 1 | 2022-12-08 to 2022-12-08 |
+| `ordenanza-6868-2022` | Ordenanza 6868/2022: Declárese de Interés Cultural y Municipal el Cortometraje Salir del Barrio y de las Oscuridades ", realizado por la "Comisión de la Memoria Trujui". | 1 | 2023-01-21 to 2023-01-21 |
+| `ordenanza-6871-2022` | Ordenanza 6871/2022: Declárese a la localidad de Francisco Álvarez, como Tierra de la Corrida de | 1 | 2023-01-21 to 2023-01-21 |
+| `ordenanza-6913-2022` | Ordenanza 6913/2022: Cédase a la Dirección general de Cultura y Educación de la Provincia de Buenos Aires, los inmuebles designados catastralmente como: Circunscripción: VI, Sección: K, Manzana: 20, Parcelas: 1, 3, 4 y 5, donde funciona el J | 1 | 2023-01-21 to 2023-01-21 |
+| `ordenanza-6910-2022` | Ordenanza 6910/2022: Adhiérase la Municipalidad de Moreno a la Ley Nacional N* 27.214 de “Promoción de la Educación Vial”. | 1 | 2023-02-26 to 2023-02-26 |
+| `ordenanza-6921-2023` | Ordenanza 6921/2023: Acéptese la donación de una impresora HP – Laser Jet Pro M12w, para uso de la Dirección Centro de Enfermedades Transmisibles, dependiente de la Secretaría de Salud y Ambiente. | 1 | 2023-05-26 to 2023-05-26 |
+| `ordenanza-6946-2023` | Ordenanza 6946/2023: Aféctese el inmueble individualizado catastralmente como Circunscripción V, Sección N, Quinta 19, Manzana 19c, Parcela 17 con una superficie total de 306 m² a Reserva para Equipamiento Comunitario. | 1 | 2023-05-26 to 2023-05-26 |
+| `ordenanza-6971-2023` | Ordenanza 6971/2023: Modifíquese el recorrido identificado como N° 23, adjudicada por Licitación Pública Expediente H.C.D. N° 1557/03, a la Empresa de Transporte Público de Pasajeros La Perlita S.A., para prestar servicio de transporte públi | 1 | 2023-06-30 to 2023-06-30 |
+| `ordenanza-6976-2023` | Ordenanza 6976/2023: Declárese de Interés Cultural y Municipal al “Día de la Madre Migrante” a conmemorarse el segundo domingo del mes de Mayo de cada año. | 1 | 2023-06-30 to 2023-06-30 |
+| `ordenanza-6981-2023` | Ordenanza 6981/2023: Adhiérase la Municipalidad de Moreno a la Resolución N° 3.506/2022, dictada por el Ministerio de Jefatura de Gabinete de Ministros de la Provincia de Buenos Aires, notificando de ello a la Subsecretaría de Relaciones Int | 1 | 2023-06-30 to 2023-06-30 |
+| `ordenanza-6999-2023` | Ordenanza 6999/2023: Declárese de Interés Público, Social y Municipal, durante el mes de Junio a la muestra fotográfica itinerante “Encuentros con la Comunidad Peruana”, que realiza la organización Peruanos Autoconvocadxs. | 1 | 2023-09-10 to 2023-09-10 |
+| `ordenanza-7018-2023` | Ordenanza 7018/2023: Prohíbase la circulación vehicular de TRANSPORTE PESADO sobre la arteria Posadas entre la arteria Martínez Melo y arteria Hipólito Yrigoyen. | 1 | 2023-11-15 to 2023-11-15 |
+| `ordenanza-7019-2023` | Ordenanza 7019/2023: el sentido de circulación de la calle Blas Parera quedando esta de único sentido hacia el sur-norte entre las calles Reverendo Padre Ansaldo y Juncal. | 1 | 2023-11-15 to 2023-11-15 |
+| `ordenanza-7030-2023` | Ordenanza 7030/2023: Declárese Patrimonio Histórico y Cultural a la Casona situada en la calle Chuquisaca N° 3181 de la Localidad de Trujui, Partido de Moreno. | 1 | 2023-11-15 to 2023-11-15 |
+| `ordenanza-7073-2023` | Ordenanza 7073/2023: Homologase el Convenio suscripto entre la Municipalidad de Moreno y el Sr. Carlos Jesús Martínez Salaberry obrante en el Expediente D.E. N° 240204-D-2022 (Expediente H.C.D. N° 35.689/2023). | 1 | 2024-01-07 to 2024-01-07 |
+| `ordenanza-7119-2024` | Ordenanza 7119/2024: Modifíquese la Ordenanza N° 3.661/08 que en adelante quedará redactada de la siguiente manera: | 1 | 2024-06-27 to 2024-06-27 |
+| `ordenanza-7133-2024` | Ordenanza 7133/2024: Acéptese la donación de una (1) Impresora Multifunción Pixma G2110 Marca Canon N° KMUU29528, para uso de la Unidad Sanitaria Jardines I, dependiente de la Secretaria de Salud de este Municipio. | 1 | 2024-06-27 to 2024-06-27 |
+| `ordenanza-7184-2024` | Ordenanza 7184/2024: Créase la Tecnicatura Superior en Enfermería del Partido de Moreno. | 1 | 2024-09-29 to 2024-09-29 |
+| `ordenanza-7204-2024` | Ordenanza 7204/2024: Déjese sin efecto el Artículo 2° de la Ordenanza N° 6.503/2021, por las razones expuestas en el Considerando. | 1 | 2024-09-29 to 2024-09-29 |
+| `ordenanza-7208-2024` | Ordenanza 7208/2024: Condónese la deuda por Patente de vehículo | 1 | 2024-09-29 to 2024-09-29 |
+| `ordenanza-7211-2024` | Ordenanza 7211/2024: Acéptese la donación de ocho (8) Consolas PlayStation 4 Slim con controladores y auriculares, a la Subsecretaría de Sistemas y Comunicaciones, dependiente de la Secretaría de Comunicación, para el Proyecto “Patio Digital | 1 | 2024-09-29 to 2024-09-29 |
+| `ordenanza-7215-2024` | Ordenanza 7215/2024: Homológase el Convenio Marco suscripto entre el Municipio de Moreno y Apicultores por un propósito (ANPUP) obrante en el Expediente N° 4078-260075-I-2024 (Expediente H.C.D. N° 35.881/2024). | 1 | 2024-11-02 to 2024-11-02 |
+| `ordenanza-7312-2024` | Ordenanza 7312/2024: Homologase el Convenio suscripto entre el Instituto de la Vivienda de la Provincia de Buenos Aires y la Municipalidad de Moreno, para la tramitación de 146 viviendas en el Barrio Villanueva, Trujui en este partido. Obran | 1 | 2025-02-16 to 2025-02-16 |
+| `ordenanza-7325-2025` | Ordenanza 7325/2025: Modifíquese la Ordenanza 6.733/22, la cual quedara redactada de la siguiente forma: | 1 | 2025-06-22 to 2025-06-22 |
+| `ordenanza-7334-2025` | Ordenanza 7334/2025: Declárese de Interés Municipal el Congreso Ambiental de la Provincia de Buenos Aires, bajo el lema “Cuidar la Casa Común”, que se realizara el 31 de Mayo de 2025 en el Municipio de Moreno. | 1 | 2025-08-23 to 2025-08-23 |
+| `ordenanza-7340-2025` | Ordenanza 7340/2025: Créase en el ámbito del Municipio de Moreno, el Registro Municipal de Mascotas Acompañantes Terapéuticas, destinado a identificar, registrar y acompañar a las mascotas que integren el entorno terapéutico de personas diag | 1 | 2025-09-12 to 2025-09-12 |
+| `ordenanza-7347-2025` | Ordenanza 7347/2025: Homológuese la suscripción del Convenio de Cooperación para el retiro, traslado y disposición final de material Ferroso no identificable en vía pública entre “Eco Trader Import Export S.A” y la Municipalidad de Moreno, s | 1 | 2025-09-12 to 2025-09-12 |
+| `ordenanza-7385-2025` | Ordenanza 7385/2025: Declárase de Interés Municipal la celebración del 50º Aniversario de la Escuela Primaria Nº 41 de Moreno Norte, a realizarse el 26 de septiembre de 2025. | 1 | 2026-01-31 to 2026-01-31 |
+| `ordenanza-7386-2025` | Ordenanza 7386/2025: Declárese de Interés Municipal y Cultural el cierre de año del Programa “Construyendo Democracia” que se realizara el día Miércoles 15 de Octubre del corriente año sito en la calle Dr. Eduardo Asconape y Plaza Mariano Mo | 1 | 2026-01-31 to 2026-01-31 |
+| `ordenanza-7394-2025` | Ordenanza 7394/2025: Homológuese el Convenio Marco suscripto entre la Municipalidad de Moreno y el Colegio de Abogados de Moreno - General Rodríguez, obrante en el Expediente N° 4078-267478-I-2024. | 1 | 2026-02-05 to 2026-02-05 |
+| `ordenanza-7399-2025` | Ordenanza 7399/2025: Acéptese la donación de ocho (8) Televisores de 50” Marca Kanji y catorce (14) Sillones Gamer Pro Rojo a la Subsecretaria de Sistemas y Comunicaciones, dependiente de la Secretaria de Comunicación Pública y Relaciones In | 1 | 2026-02-05 to 2026-02-05 |
+| `ordenanza-7415-2025` | Ordenanza 7415/2025: Declárese como Personalidad destacada del deporte, al N°1 en la disciplina del Karate, Joaquín Molina, oriundo de la localidad de Francisco Álvarez, Moreno. | 1 | 2026-02-15 to 2026-02-15 |
+| `ordenanza-7423-2025` | Ordenanza 7423/2025: Declárase de Interés Cultural del Partido de Moreno, el documental titulado "La Industria Aeronáutica en Paso del Rey, un documental de A.Pro.M.A.C": realizado por la Asociación Protectora del Medio Ambiente y Cultural ( | 1 | 2026-03-20 to 2026-03-20 |
+| `ordenanza-7425-2025` | Ordenanza 7425/2025: Créase en el Municipio de Moreno la distinción "Referenta Barrial Comunitaria de Moreno", destinada a reconocer a las mujeres que, en cada localidad del distrito, desarrollan tareas comunitarias, solidarias, de cuidado,  | 1 | 2026-03-20 to 2026-03-20 |
+| `ordenanza-7426-2025` | Ordenanza 7426/2025: Homologase el Acuerdo Individual de Prácticas Profesionalizantes suscrito entre la Municipalidad de Moreno y el Instituto Fahy, obrante en el Expediente N°4078-274991-I-2025. | 1 | 2026-03-20 to 2026-03-20 |
+| `ordenanza-7442-2025` | Ordenanza 7442/2025: Homológuese en todos sus términos el Convenio de Consorcio Urbanístico celebrado entre la Municipalidad de Moreno, representada por el Departamento Ejecutivo Municipal, y el Fideicomiso Inmobiliario Barrio San Joaquín, c | 1 | 2026-04-05 to 2026-04-05 |
+| `ordenanza-7478-2026` | Ordenanza 7478/2026: Declárese, Post Mortem, Ciudadana Ilustre del Municipio de Moreno a la Sra Graciela Benitez, en reconocimiento a su trayectoria política, su compromiso social, su labor como exconcejala y su incansable militancia en favo | 1 | 2026-09-02 to 2026-09-02 |
+| `ordenanza-7483-2026` | Ordenanza 7483/2026: Condónese la deuda por Tasa de Servicios Generales presente en la Partida Municipal N° 11169, cuya titularidad corresponde al Sra. Leguizamon Jacinta D.N.I. N° F5.579.742, por los años 2023, 2024 y 2025 inclusive; con ex | 1 | 2026-09-02 to 2026-09-02 |
+| `ordenanza-7491-2026` | Ordenanza 7491/2026: Condónese la deuda por Tasa de Servicios Generales presente en la Partida Municipal N° 187590, correspondiente a la “Federación de Asociaciones de Bomberos Voluntarios de la Provincia de Buenos Aires” por los años 2023,  | 1 | 2026-10-10 to 2026-10-10 |
 
-The build made 189 commits:
+The build made 299 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 189 | first version of an act |
+| 299 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 189 laws in the record.
-- 378 tags.
+- 299 laws in the record.
+- 488 tags.
 
 ## Dates
 
@@ -228,13 +339,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f5eb557e2a049eb801a5be1ff04edab853bd6d79252fb26f5a9ff03d39b1e302` (1333462 bytes).
+- Corpus: sha256 `f2a007bc535d46b9ebbfdbdfd08a679c02b07355c884b3b702c4948deea64020` (1811945 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-189 versions of 189 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -245,6 +356,9 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- As-published source snapshots; no consolidation is asserted.
+- Full-page attachment controls, annex/graphic references and any explicit temporal/exercise wording are excluded pending complete official-source resolution.
+- Rejected q-218 parts and both original pending markers remain unchanged; only this replacement part is submitted.
 
 ## What AI did and did not do
 
@@ -256,3 +370,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- GPT-6 wrote local parsing and validation code; it wrote no law text and performed no OCR correction.
